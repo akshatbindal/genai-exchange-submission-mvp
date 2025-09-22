@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-cloud-firestore
+langgraph
+python-dotenv
+# Placeholder for ADK, Vertex AI, etc.
+# google-agent-development-kit
+# google-cloud-aiplatform
